@@ -1,5 +1,3 @@
-# Souleymanova_Ad-le_Projet7
-# Souleymanova_Ad-le_Projet7
 
 Welcome to this repository.
 
