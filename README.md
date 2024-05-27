@@ -1,8 +1,7 @@
 
 Welcome to this repository.
 
-This ML project is about making predictive Machine Learning model that gives a score for a given client.
-The score helps to tell whether or not a person will be able to pay back the credit/loan to the financial institution.
+This ML project is about making predictive Machine Learning model that gives a score for a given client that helps to tell whether or not a person will be able to pay back the credit/loan to the financial institution.
 
 You'll find the code in wich I tested 5 different ML algorithms, then fine tuned the best one (with an AUC score of 70%).
 
